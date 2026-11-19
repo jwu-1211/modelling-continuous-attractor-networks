@@ -1,0 +1,31 @@
+{
+  "provenance": "Transcribed and translated from the source saved outputs; not independently reproduced",
+  "one_dimensional_shape": [
+    420,
+    512
+  ],
+  "two_dimensional_main_shape": [
+    600,
+    64,
+    64
+  ],
+  "two_dimensional_connection_shape": [
+    4096,
+    4096
+  ],
+  "noise_input_shape": [
+    500,
+    128
+  ],
+  "historical_noise_std": 1.0007,
+  "historical_final_noise_run_u_max": 10.5198,
+  "two_bump_shape": [
+    2000,
+    256
+  ],
+  "historical_animation_warnings": [
+    "FFmpeg unavailable; HTML/JavaScript fallback used",
+    "Two-bump embedded animation exceeded 20 MiB and dropped frames"
+  ],
+  "source_sha256": "a738d656322ec407f47042236344a1c05465132f06f40c11fad57b15ce438351"
+}
